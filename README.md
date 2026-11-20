@@ -14,7 +14,7 @@ A responsive, static portfolio website built from the information in the supplie
 5. After GitHub finishes publishing, visit `https://yourusername.github.io`.
 
 ## Personalize before publishing
-- The website currently uses an abstract VG monogram instead of a profile photo. To add your photo, place it in `assets/` and ask for the hero section to be updated.
+- Your supplied portrait is used in the homepage hero, and your VGS Digital Hub logo appears in the header, footer and hero.
 - The email, phone, and CV download are connected to the details in your supplied CV.
 - Add links to your actual social profiles if you want them displayed. No social URLs were present in the CV.
 - The contact action uses an email link (`mailto:`), so it opens the visitor's email application; it is not a server-backed contact form.
@@ -24,3 +24,5 @@ A responsive, static portfolio website built from the information in the supplie
 - `style.css` — responsive dark / gold design
 - `script.js` — mobile navigation and current year
 - `assets/Vishal-Goswami-CV.pdf` — downloadable CV
+- `assets/vishal-goswami-portrait.png` — homepage portrait
+- `assets/vgs-digital-hub-logo.png` — VGS Digital Hub logo
